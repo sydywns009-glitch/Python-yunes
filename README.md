@@ -1,2 +1,2 @@
 # Python-yunes
-Dar in file if whail for 
+در این فایل حلقه فور ایف و وایل وجود دارد 
